@@ -1,0 +1,16 @@
+size of(teststr):8
+size of(hello):100
+copied:testhello
+t, 0x7ffcee08acfc
+e, 0x7ffcee08acfd
+s, 0x7ffcee08acfe
+t, 0x7ffcee08acff
+h, 0x7ffcee08ad00
+e, 0x7ffcee08ad01
+l, 0x7ffcee08ad02
+l, 0x7ffcee08ad03
+o, 0x7ffcee08ad04
+addr of buf: 0x7ffcee08acfc
+addr of a:   0x7ffcee08ace0
+addr of str: 0x7ffcee08ace8
+addr of c:   0x7ffcee08ad00
